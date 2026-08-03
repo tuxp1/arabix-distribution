@@ -16,14 +16,10 @@
         "author": "ArabiX Community",
         "summary": "تعريب عربي تجريبي للقوائم والنصوص.",
         "engine": "Unreal Engine 5.4",
+        "access": "account",
         "testedBuildIds": [
           "24343447"
-        ],
-        "download": {
-          "url": "https://raw.githubusercontent.com/tuxp1/arabix-distribution/main/bundles/abiotic-factor-ar-1.0.0.zip",
-          "archiveSha256": "2c2a69329d2870c2716cdbb2990b35abbb3f768c4feae2a21d6a901e6e7ce34a",
-          "sizeBytes": 1315828
-        }
+        ]
       }
     }
   ]
